@@ -23,3 +23,14 @@ public class hello
 {
 }
 ```
+
+- [ ] Read the project documentation
+- [ ] Set up the development environment
+- [ ] Write the main algorithm
+- [ ] Implement unit tests
+- [ ] Review and refactor the code
+- [ ] Update the README file
+- [ ] Push changes to the repository
+- [ ] Create a pull request for review
+- [ ] Address feedback and make improvements
+- [ ] Merge the pull request
